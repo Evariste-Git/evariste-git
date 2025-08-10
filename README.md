@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Currently I am mostly working on setting up and configuring my Thinkpad.
+
+In the future I am interested in leraning a lot about Rust🦀.
+
 <!--
 **Evariste-Git/evariste-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
